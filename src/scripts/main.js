@@ -37,4 +37,4 @@ function createTree(element, data) {
   }
 }
 
-console.log(createTree(tree, food));
+createTree(tree, food);
